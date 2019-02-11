@@ -1,0 +1,6 @@
+.jumbotron {
+    background: url('./download.jpeg') no-repeat center;
+    background-size: cover;
+    color:white;
+    opacity: 0.5;
+}
